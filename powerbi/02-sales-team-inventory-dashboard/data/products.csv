@@ -1,0 +1,15 @@
+ProductID,Name,Category,Price,Stock,ReorderLevel
+1,Air Conditioner,Large Appliances,135000,12,15
+2,Refrigerator,Large Appliances,98000,25,10
+3,Washing Machine,Large Appliances,72000,8,10
+4,LED TV,Large Appliances,65000,30,12
+5,Water Dispenser,Large Appliances,32000,6,8
+6,Ceiling Fan,Large Appliances,12500,60,25
+7,Microwave Oven,Kitchen,28000,14,10
+8,Air Fryer,Kitchen,16500,9,15
+9,Blender,Kitchen,7200,40,20
+10,Toaster,Kitchen,5200,18,15
+11,Electric Kettle,Kitchen,4500,11,20
+12,Vacuum Cleaner,Home Care,24000,22,10
+13,Iron,Home Care,3800,50,20
+14,Steam Cleaner,Home Care,19000,5,8

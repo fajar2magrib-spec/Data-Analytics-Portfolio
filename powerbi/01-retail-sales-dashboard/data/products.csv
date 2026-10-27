@@ -1,0 +1,16 @@
+ProductID,Name,Category,Price,Cost
+1,Laptop,Electronics,185000,150000
+2,Smartphone,Electronics,95000,78000
+3,Headphones,Electronics,8500,5500
+4,Smart Watch,Electronics,22000,15000
+5,Tablet,Electronics,60000,48000
+6,Office Chair,Furniture,25000,15000
+7,Study Desk,Furniture,35000,21000
+8,Bookshelf,Furniture,18000,10500
+9,Sofa Set,Furniture,120000,80000
+10,Notebook Pack,Stationery,600,300
+11,Pen Set,Stationery,450,200
+12,Printer Paper,Stationery,1800,1200
+13,Marker Set,Stationery,900,450
+14,File Folder,Stationery,350,150
+15,Calculator,Stationery,2200,1300
